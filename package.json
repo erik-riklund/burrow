@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "name": "burrow",
+  "devDependencies": {
+    "@types/bun": "^1.2.14"
+  }
+}

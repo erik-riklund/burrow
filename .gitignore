@@ -1,0 +1,4 @@
+# See https://help.github.com/articles/ignoring-files/
+# for a more complete description of .gitignore rules.
+
+node_modules

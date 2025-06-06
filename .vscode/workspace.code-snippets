@@ -1,0 +1,15 @@
+{
+  "test":
+  {
+    "prefix": "test",
+    "scope": "typescript",
+    "body": [
+      "it.todo('should ${1}',",
+      "  () =>",
+      "  {",
+      "    // ...",
+      "  }",
+      ");"
+    ]
+  }
+}
