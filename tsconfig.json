@@ -8,6 +8,10 @@
       "module:*": [
         "./modules/*/index.ts",
         "./modules/*"
+      ],
+      "service:*": [
+        "./services/*/index.ts",
+        "./services/*"
       ]
     },
 
